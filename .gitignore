@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+hasoc/pytorch_model.bin
+hasoc/config.json
+my_imdb_model/config.json
+*.bin

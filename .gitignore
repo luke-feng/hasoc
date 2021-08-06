@@ -131,3 +131,5 @@ hasoc/pytorch_model.bin
 hasoc/config.json
 my_imdb_model/config.json
 *.bin
+*.yaml
+*.0

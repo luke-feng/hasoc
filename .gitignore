@@ -133,3 +133,5 @@ my_imdb_model/config.json
 *.bin
 *.yaml
 *.0
+*.tsv
+*.1
